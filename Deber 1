@@ -1,0 +1,18 @@
+Preguntas
+# 1 Suponga que tiene una lista [1, 2, 3, 2, 1] y desea crear una nueva lista sin números dobles, después de resolver este problema, intente reescribirla como una sola línea
+Un one liner en programación es un programa existente de una sola línea. Si no logras escribir una sola línea, no te preocupes. el codigo one liner es a menudo difícile de leer y, como hemos aprendido esta semana: los lenguajes de programación están destinados a ser legibles para las personas. Así que no te preocupes si estás usando demasiado código para resolver un problema, debes preguntarte: ¿yo o alguien más entenderá esto dentro de 3 años?
+# 2 Slicing puede tener 3 parámetros, inicio, final y paso. Sin embargo, a menudo escribirá o leerá operaciones de corte con menos de 3 parámetros. En esta pregunta, debe volver a escribir todos los ejemplos en operaciones de corte con 3 parámetros. Después de haberlas reescrito, verifique si sus respuestas dan los mismos resultados
+[ ]
+↳ 1 celda oculta
+# 3 Hemos construido un diccionario que se puede usar para encontrar el resultado si dos booleanos están conectados con el operador y
+Reescribe este diccionario para encontrar el resultado si dos booleanos están conectados con el operador o
+Python no tiene un operador XOR, busque en Internet lo que se supone que debe hacer el operador XOR y cree un diccionario que proporcione el resultado de una operación XOR
+[ ]
+↳ 1 celda oculta
+# 4 En 'Las listas pueden contener listas y así formar tablas de múltiples dimensiones' se les mostro una secuencia ganadora en tres en raya. Como es muy importante para el análisis de datos y la visualización de datos que se sienta cómodo trabajando con tablas poli-dimensionales, le pedimos que reescriba la secuencia con un segundo jugador más inteligente (o un jugador que aprendió el juego de memoria) donde el juego termina en un empate.
+[ ]
+↳ 1 celda oculta
+# 5 Ejecute el siguiente programa, vea si puede encontrar algo extraño y explique el resultado usando su conocimiento de recolección de basura
+[ ]
+↳ 1 celda oculta
+# 6 Las cadenas son inmutables, pero ¿por qué funciona lo siguiente? ¿Claramente cambiamos el valor de la cadena llamada string_1? ¿Qué afirmaciones agregaría para aclarar lo que ha sucedido? usar id
